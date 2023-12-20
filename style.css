@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background:lightblue;
+}
+.content{
+    padding: 100px;
+    align-items: center;
+}
+
+input{
+    padding: 8px;
+    margin: 8px;
+    width: 80%;
+    height: 25px;
+    border: blue;
+    border-radius: 50px;
+}
+
+button {
+    padding: 12px 10px;
+    width: 90px;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#task{
+    padding: 8px;
+    margin: 8px;
+    display: inline-block;
+    width: 80%;
+    height: 25px;
+    background-color: white;
+    border: blue;
+    border-radius: 50px;
+}
